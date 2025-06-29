@@ -33,3 +33,8 @@ These agents were compared against a traditional **PID (Proportional-Integral-De
 To run the project, install the necessary libraries:
 ```bash
 pip install matplotlib numpy simglucose
+```
+## References
+
+* OpenAI. (2025). *ChatGPT* (Jun 29 version) [Large language model]. https://chat.openai.com
+* jxx123. (2019). *simglucose* [Software]. GitHub. https://github.com/jxx123/simglucose
